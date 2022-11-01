@@ -1,0 +1,10 @@
+{
+  "resources":{
+  "includes":[
+    {
+      "condition":{"typeReachable":"io.netty.util.internal.NativeLibraryLoader"},
+      "pattern":"\\QMETA-INF/native/libnetty_resolver_dns_native_macos_aarch_64.jnilib\\E"
+    }
+  ]},
+  "bundles":[]
+}

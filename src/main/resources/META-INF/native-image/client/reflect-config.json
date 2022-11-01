@@ -1,0 +1,7 @@
+[
+  {
+    "condition":{"typeReachable":"io.netty.resolver.dns.DnsServerAddressStreamProviders"},
+    "name":"io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider",
+    "methods":[{"name":"<init>","parameterTypes":[] }]
+  }
+]

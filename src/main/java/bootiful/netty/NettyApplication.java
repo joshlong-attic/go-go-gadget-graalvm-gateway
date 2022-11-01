@@ -96,13 +96,3 @@ class GatewayConfiguration {
         return packages;
     }
 }
-
-@Controller
-@ResponseBody
-class GreetingsController {
-
-    @GetMapping("/hello")
-    Map<String, String> hello() {
-        return Map.of("message", "Hello, world!");
-    }
-}
